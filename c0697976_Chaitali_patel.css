@@ -1,0 +1,45 @@
+form{
+	text-align: center;
+	color: #ba4a00;
+	 background: #f2d9e6; 
+	 margin-top: 15%;
+	 margin-right: 10%;
+	 margin-left: 10%;
+}
+legend{
+	color: #ff0066;
+	text-align: center;
+}
+footer{
+	text-align: center;
+	}
+
+.input2{
+	color:#148F77;
+	
+	 
+}
+.input3{
+	color:#148F77;
+	 
+}
+.button2 {
+   background-color: #0d3982;
+   color: #FFFFFF; 
+	font-size: 15px; font-family: verdana;
+	 align-items: center;
+    border: 2px solid #ffffff;
+}
+
+.button2:hover {
+    background-color: #ffcccc;
+    color: #ff6666;
+}
+
+.button {
+  background-color:#0d3982 ;color: #FFFFFF; 
+	font-size: 1em; font-family: verdana;
+	 align-items: center;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}

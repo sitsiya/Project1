@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+h2{
+	text-align: center;
+	color: #00b386;
+}
+nav a:hover {
+    background-color: #0055ff;
+    color: white; 
+}
+
+nav{
+	text-align: left;
+	background-color: #00b386;
+	diaplay:block;
+	color: white;
+	font-style: bold;
+    font-size: 20px;
+}
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+#form{
+	
+	background-color: #33CEFF;	
+}
